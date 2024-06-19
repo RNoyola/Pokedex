@@ -76,7 +76,9 @@ yarn test
 
 ### Now what?
 
-- You should be able to see, catch and get diferent information about your favorites Pokemons
+- You should be able to see, catch and get diferent information about your favorites Pokemons.
+
+- Video example: https://www.loom.com/share/bae921d4e53d4077bb8921705bdf8bd5
 
 # Troubleshooting
 
@@ -84,6 +86,7 @@ If you can't get this to work, let me know so I can fix it at `rchasenoyola@gmai
 
 # To Do's
 
-Improve tests, so far the coverage it's ok but some tests are just snapshots.
-As request of some people I'll try to add a Battle Calculator later on
+- As request of some people I'll try to add a Battle Calculator later on.
+- Support to multiple languages.
+
 
