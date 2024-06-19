@@ -2,7 +2,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 # Getting Started
 
->**Note**: Make sure you have the latest node, otherwise this might cause conflicts while doing using cocoapods
+>**Note**: Make sure you have the latest node, otherwise this might cause conflicts while running cocoapods
 
 ## Step 1: Install node_modules
 
